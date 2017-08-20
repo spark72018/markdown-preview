@@ -19,5 +19,5 @@
     "test": "react-scripts test --env=jsdom",
     "eject": "react-scripts eject"
   },
-  "homepage" :"https://spark72018.github.io/markdown-preview"
+  "homepage": "https://spark72018.github.io/markdown-preview"
 }
